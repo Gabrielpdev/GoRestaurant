@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img alt="GoFinaces" title="#GoFinaces" src=".github/logo.png" width="250px" />
+    <img alt="GoFinaces" title="#GoFinaces" src=".github/logo.png" width="350px" />
 </h2>
   
 <p align="center">
