@@ -30,9 +30,9 @@
 ### 📜 Sobre
 Projeto desenvolvido durante o **GoStack** oferecido pela [Rocketseat] :rocket:.
 
-O GoRestaurant é um cardapio de restaurante, nele você visualiza todas as comidas disponiveis, adicionar, deletar e altera dados delas.
+O GoRestaurant é um cardapio de restaurante, nele você pode visualizar todas as comidas disponiveis, adicionar, deletar e altera dados delas.
 
-Usando um fake API para te prover os dados
+Utiliza-se uma fake API para prover os dados necessários.
 
 A aplicação em **ReactJS** (frontend) é para visualizar visualizar, adicionar, deletar as refeições
 
